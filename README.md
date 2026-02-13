@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hypetype — печатайте любые символы напрямую с клавиатуры
 
+Заполню карточку чтобы было легче ориетироваться
 <!--
 **Simbaruzz/simbaruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
